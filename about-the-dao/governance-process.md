@@ -40,7 +40,7 @@ A DDIP provides a structured overview of the proposal that acts as the basis for
 
 ### Phase 3: Snapshot Vote
 
-The final ratification of a DDIP requires a successful vote of Members on the [devdao.eth Sanpshot space](https://snapshot.org/#/devdao.eth/)
+The final ratification of a DDIP requires a successful vote of Members on the [devdao.eth Snapshot space](https://snapshot.org/#/devdao.eth/)
 
 | **Duration**     | 5 days (120 hours)                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
